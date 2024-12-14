@@ -9,7 +9,7 @@ if($_SERVER['REQUEST_METHOD']!== 'PUT'){
     return;
 }
 
-header( 'Access-Control-Allow-Orlgln: *');
+header( 'Access-Control-Allow-Origin: *');
 header( 'Content-Type: application/json');
 header( 'Access-control-Allow-methods: PUT');
 
