@@ -1,0 +1,28 @@
+.bookmark-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px;
+    justify-content: center;
+}
+
+.bookmark-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+.bookmark-card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.bookmark-actions button {
+    padding: 8px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
