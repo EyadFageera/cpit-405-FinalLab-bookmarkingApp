@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cpit-405-FinalLab-bookmarkingApp/static/css/main.25a537b8.chunk.css",
+    "main.js": "/cpit-405-FinalLab-bookmarkingApp/static/js/main.faa655cf.chunk.js",
+    "main.js.map": "/cpit-405-FinalLab-bookmarkingApp/static/js/main.faa655cf.chunk.js.map",
+    "runtime-main.js": "/cpit-405-FinalLab-bookmarkingApp/static/js/runtime-main.8462ca3a.js",
+    "runtime-main.js.map": "/cpit-405-FinalLab-bookmarkingApp/static/js/runtime-main.8462ca3a.js.map",
+    "static/js/2.7ab0cd01.chunk.js": "/cpit-405-FinalLab-bookmarkingApp/static/js/2.7ab0cd01.chunk.js",
+    "static/js/2.7ab0cd01.chunk.js.map": "/cpit-405-FinalLab-bookmarkingApp/static/js/2.7ab0cd01.chunk.js.map",
+    "static/js/3.c93c3b3c.chunk.js": "/cpit-405-FinalLab-bookmarkingApp/static/js/3.c93c3b3c.chunk.js",
+    "static/js/3.c93c3b3c.chunk.js.map": "/cpit-405-FinalLab-bookmarkingApp/static/js/3.c93c3b3c.chunk.js.map",
+    "index.html": "/cpit-405-FinalLab-bookmarkingApp/index.html",
+    "precache-manifest.a20513b773bc7ff10adcfa7ace5e1493.js": "/cpit-405-FinalLab-bookmarkingApp/precache-manifest.a20513b773bc7ff10adcfa7ace5e1493.js",
+    "service-worker.js": "/cpit-405-FinalLab-bookmarkingApp/service-worker.js",
+    "static/css/main.25a537b8.chunk.css.map": "/cpit-405-FinalLab-bookmarkingApp/static/css/main.25a537b8.chunk.css.map",
+    "static/js/2.7ab0cd01.chunk.js.LICENSE.txt": "/cpit-405-FinalLab-bookmarkingApp/static/js/2.7ab0cd01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8462ca3a.js",
+    "static/js/2.7ab0cd01.chunk.js",
+    "static/css/main.25a537b8.chunk.css",
+    "static/js/main.faa655cf.chunk.js"
+  ]
+}
